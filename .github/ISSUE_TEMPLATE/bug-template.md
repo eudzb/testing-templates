@@ -1,26 +1,29 @@
 ---
-name: 🐛 testing issue
-about: hello world
+name: 🐛 Bug Report
+about: You have a bug ? Open a bug issue right now
 title: "[DATE]: [FEATURE NAME]"
-labels: "🐛 bug"
-assignees: e.bandelaria
+labels: "bug"
+assignees: eudzb
 ---
 
 ## Description
 
-## Expected Behavior
+## What is supposed to happen
 
-## Actual Behavior
+## What is actualy happening
 
 ## Possible Fix
 
-## Steps to Reproduce
+## Steps to reproduce the bug
 1.
-2. 
+2.
+3.
+4.
+5.
 
 ## Context
 
-## Your Environment
+## Environment
 
 * Version used :
 * Browser name and version :
