@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug issue
+name: 🐛 testing issue
 about: Please use this template if you have bug report
 title: "[DATE]: [FEATURE NAME]"
 labels: "🐛 bug"
