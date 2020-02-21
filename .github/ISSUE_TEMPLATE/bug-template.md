@@ -21,3 +21,8 @@ assignees: e.bandelaria
 ## Context
 
 ## Your Environment
+
+* Version used :
+* Browser name and version :
+* Operating system and version :
+* Link to your project :
